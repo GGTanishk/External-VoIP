@@ -1,0 +1,2 @@
+# External-VoIP
+ In this project, I configured the Cisco IP phones to be reachable to all the phones in the world. Unlike in internal VoIP, where I configured the IP Phones to be connected to each other within a LAN, I had to configure the IP phones to be reachable worldwide. Apart from the ability to make connections worldwide, I configured the IP Phones to have specific features such as Music on Hold and voicemail. I also used a Cisco Unity Connection Server (CUC) to finish the project. Applcations like Tftpd32 and Audacity were also used. 
